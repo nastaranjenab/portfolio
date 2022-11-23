@@ -17,6 +17,7 @@ export const Projects = () => {
                     <h3>Meet-Up App</h3>
                     <div className='project-brief'>
                         <p>This app was created using React and a test-driven development approach. Its primary function is to show developers around the world events close to them related to web development. It also uses Google's Calendar API.</p>
+                        <p>* The application is currently being reviewed to become verified by Google API and in the meantime is unable access.</p>
                         <p>Tools Used: </p>
                         <ul>
                             <li>React</li>
@@ -63,7 +64,6 @@ The myFlix movie API is an API that serves a movies and users database. User can
 
                         <div className='project-btn'>
                             <div><a target="_blank"  rel="noopener noreferrer" href='https://github.com/nastaranjenab/movie_api'>Github Repo</a></div>
-                            <div><a target="_blank"  rel="noopener noreferrer" href='https://movieflexworld.herokuapp.com//'>Visit Site</a></div>
                         </div>
                     </div>
 
